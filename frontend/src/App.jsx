@@ -69,6 +69,7 @@ export default function SmartCartApp() {
 
   return (
     <div style={styles.app}>
+      
       {/* Navbar */}
       <header style={styles.navbar}>
         <div style={styles.navInner}>
